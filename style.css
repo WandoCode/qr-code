@@ -20,7 +20,7 @@ img {
 }
 
 main {
-  max-width: 16.43rem;
+  max-width: 18.43rem;
 
   padding: 1rem;
 
@@ -32,6 +32,7 @@ main {
 .h1 {
   font-size: 1.3rem;
   text-align: center;
+  margin-block: 1.2rem;
 }
 
 .description {
